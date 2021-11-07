@@ -1,0 +1,8 @@
+INSERT INTO bears VALUES (1, 'BILLY', 22, 'F', 'BLACK', 'GOOD', 1);
+INSERT INTO bears VALUES (2, 'BILLY', 27, 'M', 'BLACK', 'GOOD', 0);
+INSERT INTO bears VALUES (3, 'BILLY', 28, 'M', 'BLACK', 'GOOD', 1);
+INSERT INTO bears VALUES (4, 'BILLY', 21, 'F', 'BLACK', 'GOOD', 1);
+INSERT INTO bears VALUES (5, 'BILLY', 24, 'M', 'BLACK', 'GOOD', 0);
+INSERT INTO bears VALUES (6, 'BILLY', 26, 'F', 'BLACK', 'GOOD', 0);
+INSERT INTO bears VALUES (7, 'BILLY', 29, 'M', 'BLACK', 'GOOD', 1);
+INSERT INTO bears VALUES (8, null, 25, 'M', 'BLACK', 'GOOD', 1);
